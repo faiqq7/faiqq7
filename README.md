@@ -104,7 +104,7 @@ I love solving real-world problems using software and take pride in building pro
 ### 📫 Let’s Connect
 
 - 🌐 [Upwork Profile](https://www.upwork.com/freelancers/~017b499edad81e39e4?mp_source=share)
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/faiq-malik/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/faiq-malik/)
 - 💌 Email: faiqijaz43@gmail.com
 
 ---
