@@ -95,8 +95,8 @@ I love solving real-world problems using software and take pride in building pro
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiqmalik&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiqmalik&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faiqq7&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiqq7&theme=radical" width="48%" />
 </p>
 
 ---
